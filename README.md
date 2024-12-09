@@ -108,7 +108,23 @@ Welcome to the **Python Refresher Course** repository! 🎉 This course is desig
 
 ---
 
+### Prerequisites  
+Ensure you have the following installed on your computer:  
+- [Git](https://git-scm.com/downloads)  
+🎥 Watch the tutorial here:
+ [How to install Git](https://www.youtube.com/watch?v=C2x4OKZLS_E)
+- [Python 3.x](https://www.python.org/downloads/)  
+
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
    git clone https://github.com/EniolaAdemola/python-refresher-course.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd python-refresher-course
+   ```
+
+🎥 Watch the tutorial here:
+ [Git & GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=STgy2yqdvnU)  
