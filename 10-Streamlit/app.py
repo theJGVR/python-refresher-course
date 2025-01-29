@@ -4,6 +4,7 @@ import numpy as np
 
 ## Title of the aplication
 st.title("Hello Streamlit")
+st.title("This is a title sample")
 
 ## Diplay a Simple Text
 st.write("This is a simple text")
@@ -19,6 +20,7 @@ df = pd.DataFrame({
 st.write(df)
 
 x = st.slider('x')  # 👈 this is a widget
+st.write(f"The slider number you picked is {x}")
 st.write(x, 'squared is', x * x)
 
 ## Display the Dataframe
